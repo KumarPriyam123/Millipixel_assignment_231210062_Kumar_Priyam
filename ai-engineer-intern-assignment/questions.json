@@ -1,0 +1,50 @@
+[
+  {
+    "id": "P1",
+    "question": "What is the DIM divisor for international shipments?",
+    "answerable": true,
+    "expected_answer": "166. (Domestic, including Alaska, Hawaii and Puerto Rico, uses 139.)"
+  },
+  {
+    "id": "P2",
+    "question": "What are the dock hours at the Newark facility?",
+    "answerable": true,
+    "expected_answer": "Monday to Friday 06:00-22:00 and Saturday 07:00-14:00, local time."
+  },
+  {
+    "id": "P3",
+    "question": "If a customer declares no value on a shipment, what is Meridian liable for?",
+    "answerable": true,
+    "expected_answer": "$100 per shipment -- the default carrier liability, regardless of actual value."
+  },
+  {
+    "id": "P4",
+    "question": "Can standalone lithium-ion cells rated above 100 Wh ship on Meridian ground service?",
+    "answerable": true,
+    "expected_answer": "No. Standalone lithium-ion cells above 100 Wh are never accepted on any service."
+  },
+  {
+    "id": "P5",
+    "question": "How long does a customer have to file a damage claim?",
+    "answerable": true,
+    "expected_answer": "21 calendar days from the delivery scan (or from the scheduled delivery date for a lost shipment)."
+  },
+  {
+    "id": "P6",
+    "question": "What documents are required at tender for a cross-border shipment?",
+    "answerable": true,
+    "expected_answer": "Commercial invoice in triplicate with HS codes, country of origin and USD declared value; a matching packing list; a certificate of origin where a trade agreement rate is claimed; importer of record name, address and tax ID; and a power of attorney on file with Meridian's customs broker."
+  },
+  {
+    "id": "P7",
+    "question": "What is the fuel surcharge for Zone 4?",
+    "answerable": true,
+    "expected_answer": "11.0%, applied to the line-haul charge only."
+  },
+  {
+    "id": "P8",
+    "question": "What is Meridian's employee vacation policy?",
+    "answerable": false,
+    "expected_answer": "Not answerable from this corpus. The handbook covers operations, not HR policy."
+  }
+]
